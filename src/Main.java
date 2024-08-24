@@ -48,7 +48,7 @@ public class Main {
         int prod1month = prod * 30 * 24 * 60; // Производительность за 1 месяц
 
         System.out.println("За 20 минут машина произвела " + prod20m + " штук бутылок");
-        System.out.println("За 1 сутки машина произвела " + prod1day + " штук бутылок");
+        System.out.println("За 24 часа машина произвела " + prod1day + " штук бутылок");
         System.out.println("За 3 суток машина произвела " + prod3day + " штук бутылок");
         System.out.println("За 1 месяц машина произвела " + prod1month + " штук бутылок");
 
